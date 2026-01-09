@@ -3,7 +3,7 @@
 Lightweight sailing environment with a simple boat model, observation builder,
 and baseline controller. It is a work in progress. 
 
-[Training evolution](assets/training_evolution.gif)
+![Training evolution](assets/training_evolution.gif)
 
 ## Setup
 
